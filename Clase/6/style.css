@@ -1,0 +1,17 @@
+a.redwine {
+    color: azure;
+}
+#parrafo1 {
+    background-color: rgb(49, 16, 115); 
+}
+#div1 {
+    background-color: brown;
+    width: 100px;
+    height: 150px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    text-decoration: line-through;
+}
+html {
+    background-color: rgba(243, 231, 217, 0.722);
+}

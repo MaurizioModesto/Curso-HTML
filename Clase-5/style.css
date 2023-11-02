@@ -1,0 +1,16 @@
+html {
+    background-color: #1875cb;
+  }
+  h1 {
+    color: #2dcb18;
+  }
+  #caja1 {
+    width: 250px;
+    height: 450px;
+    background-color: antiquewhite;
+  }
+  #caja2{
+    width: 200px;
+    height: 100px;
+    background-color: #cb1818;
+  }

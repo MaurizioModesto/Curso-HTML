@@ -1,0 +1,41 @@
+body{
+    display: flex;
+    margin: 0;
+}
+.contenedor{
+    display: block;
+    background-color: grey;
+    width: 1000px;
+    height: 800px;
+    margin: 30px auto;
+    
+    
+}
+.amarillo{
+    background-color: yellow;
+    margin: 0px 10px ;
+    width: 980px;
+    height: 80px;
+}
+.negro{
+    background-color: black;
+    margin: 0px 10px;
+    width: 980px;
+    height: 180px;
+    clear: both;
+}
+.azul{
+    background-color: blue;
+    height: 400px;
+    width:680px ;
+    float: left;
+    margin-left: 10px;
+}
+.rojo{
+    background-color: red;
+    margin-right: 10px;
+    width: 290px;
+    height: 500px;
+    float: right;
+    margin-left: 10px;
+}
